@@ -1,16 +1,76 @@
-# React + Vite
+# 🔊 SoundVault
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**SoundVault** is a collection of high-quality sound effects ready to be used in video editing, content creation, game development, and other multimedia projects.
 
-Currently, two official plugins are available:
+This repository serves as a simple **library of organized sound effects** that creators can quickly access and use in their projects.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- 🎧 Curated sound effects collection
+- 📂 Organized by categories
+- 🎬 Ready to use for video editing
+- 🎮 Suitable for games and multimedia
+- ⚡ Easy to browse and download
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 📁 Categories
+
+SoundVault includes various types of sound effects such as:
+
+- 🎬 **Cinematic**
+- 🔔 **Notifications**
+- 💥 **Impacts & Hits**
+- 🎮 **Game Sounds**
+- 🌿 **Ambient Sounds**
+- 😂 **Meme Sounds**
+- 🎹 **UI / Interface Sounds**
+
+
+---
+
+## 🚀 Usage
+
+1. Browse the category folder.
+2. Download the sound effect you need.
+3. Import it into your editing or development project.
+
+Supported for:
+
+- Video Editing (Premiere Pro, CapCut, After Effects, etc.)
+- Game Development
+- Content Creation
+- UI/UX Projects
+
+---
+
+## ⚠ Disclaimer
+
+All sound effects in this repository are intended for **educational and creative use**.  
+Please check individual file licenses if you plan to use them in commercial projects.
+
+---
+
+## 🤝 Contributing
+
+Contributions are welcome!
+
+If you'd like to add more sound effects:
+
+1. Fork this repository
+2. Add your sound files in the appropriate category
+3. Submit a Pull Request
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+---
+
+## ⭐ Support
+
+If you find this repository useful, consider giving it a **star ⭐** on GitHub.
