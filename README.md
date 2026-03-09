@@ -46,13 +46,6 @@ Supported for:
 
 ---
 
-## ⚠ Disclaimer
-
-All sound effects in this repository are intended for **educational and creative use**.  
-Please check individual file licenses if you plan to use them in commercial projects.
-
----
-
 ## 🤝 Contributing
 
 Contributions are welcome!
@@ -62,12 +55,6 @@ If you'd like to add more sound effects:
 1. Fork this repository
 2. Add your sound files in the appropriate category
 3. Submit a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
